@@ -1,5 +1,4 @@
 # svhooren.github.io
-Personal Page
+Hi everyone, welcome to my personal page ! I'm a student in Geography in Brussels (Université Libre de Bruxelles) , I'll be graduated in september 2019.
 
-Welcome on my personal page
 [ShinyApp example](pokyah.shinyapps.io/foss4GBXL2018)
