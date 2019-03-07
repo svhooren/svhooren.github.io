@@ -1,5 +1,4 @@
-# Svhooren
-## Mémoire - Mars
+# Mars
 
 Après avoir exploré la littérature pour les deux parties précédentes (Etat de l'art et Méthodologie), je commence le traitement de données. Le traitement sera réalisé essentiellement avec R, mais je souhaiterais exploités les données dans QGIS via un Plugin PyQGIS.
 
@@ -46,5 +45,5 @@ Malgré cette conversion de données, je reste bloqué avec une match error :
 J'ai posé une issue sur Github à Joël Gombin et contacté une personne qui a travaille sur ce script et l'a actualisé pour voir si ils n'avaient pas rencontré ce même problème ou si ils n'avaient pas de meilleures données à me proposer.
 
 
-## Mémoire
+# Auparavant
 Je commence seulement maintenant à tenir un blog, depuis le mois d'octobre j'ai déjà réalisé mon état de l'art ainsi que ma méthodologie. Dans le but de me forcer à un apprentissage de différents languages informatiques, j'ai décidé de rédiger mon mémoire en LaTeX, mais également de tenir un blog via Github Pages. Je souhaite aussi mettre la version finale sur une Shiny App qui sera accessible depuis cette page. Cette Shiny App et la page sont rédigées respectivement R et en Markdown.
