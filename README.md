@@ -1,7 +1,7 @@
 # Svhooren
 ## Mémoire - Mars
 
-Après avoir exploré la littérature pour les deux parties précédentes (Etat de l'art et Méthodologie), je commence le traitement de données.
+Après avoir exploré la littérature pour les deux parties précédentes (Etat de l'art et Méthodologie), je commence le traitement de données. Le traitement sera réalisé essentiellement avec R, mais je souhaiterais exploités les données dans QGIS via un Plugin PyQGIS.
 
 J'ai trouvé mes données sociologiques en ligne sur le site de l'[INSEE](https://www.insee.fr/fr/statistiques/2028584) et mes données électorales sur le site [Open Data](https://public.opendatasoft.com/explore/dataset/election-presidentielle-2017-resultats-par-bureaux-de-vote-tour-1/table/?flg=fr&disjunctive.libelle_de_la_commune&refine.libelle_de_la_commune=Paris).
 
@@ -47,4 +47,4 @@ J'ai posé une issue sur Github à Joël Gombin et contacté une personne qui a 
 
 
 ## Mémoire
-Pour le moment j'ai déjà réalisé mon état de l'art ainsi que ma méthodologie. Dans le but de me forcer à un apprentissage de différents languages, j'ai décidé de rédiger mon mémoire en LaTeX, mais également de tenir un blog via Github Pages. Je souhaite également mettre la version finale sur une Shiny App qui sera accessible depuis cette page. Cette Shiny App et la page sont rédigées respectivement R et en Markdown. 
+Je commence seulement maintenant à tenir un blog, depuis le mois d'octobre j'ai déjà réalisé mon état de l'art ainsi que ma méthodologie. Dans le but de me forcer à un apprentissage de différents languages informatiques, j'ai décidé de rédiger mon mémoire en LaTeX, mais également de tenir un blog via Github Pages. Je souhaite aussi mettre la version finale sur une Shiny App qui sera accessible depuis cette page. Cette Shiny App et la page sont rédigées respectivement R et en Markdown.
