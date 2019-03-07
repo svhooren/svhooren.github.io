@@ -3,7 +3,7 @@
 
 Après avoir exploré la littérature pour les deux parties précédentes (Etat de l'art et Méthodologie), je commence le traitement de données.
 
-J'ai trouvé mes données sociologiques en ligne sur le site de l'![INSEE](https://www.insee.fr/fr/statistiques/2028584) et mes données électorales sur le site [Open Data](https://public.opendatasoft.com/explore/dataset/election-presidentielle-2017-resultats-par-bureaux-de-vote-tour-1/table/?flg=fr&disjunctive.libelle_de_la_commune&refine.libelle_de_la_commune=Paris).
+J'ai trouvé mes données sociologiques en ligne sur le site de l'[INSEE](https://www.insee.fr/fr/statistiques/2028584) et mes données électorales sur le site [Open Data](https://public.opendatasoft.com/explore/dataset/election-presidentielle-2017-resultats-par-bureaux-de-vote-tour-1/table/?flg=fr&disjunctive.libelle_de_la_commune&refine.libelle_de_la_commune=Paris).
 
 
 Pour le moment je bloque sur une ventilation de données. Mes données sociologiques sont à l'échelle IRIS (Ilots regroupés pour l'information statistique) et mes données électorales sont à l'échelle du bureau de vote. Afin de les mettre à la même échelle du bureau de vote j'essaye de réaliser une ventilation grâce au script [spReaportion](https://github.com/joelgombin/spReapportion) de Joël Gombin. J'ai déjà rencontré plusieurs problèmes, notamment des données excell avec une colonne contenant des informations géographiques et qu'il a donc fallu faire passer en objet orienté R. Pour cela j'ai eu de l'aide de pokyah qui m'a réalisé un script. 
