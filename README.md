@@ -35,4 +35,11 @@ mapview::mapview(bureaux_sf)
 
 bureaux_sp = as(bureaux_sf, "Spatial")
 ```
+Malgré cette conversion de données, je reste bloqué avec une match error : 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
+J'ai posé une issue sur Github à Joël Gombin et contacté une personne qui a travaille sur ce script et l'a actualisé pour voir si ils n'avaient pas rencontré ce même problème ou si ils n'avaient pas de meilleures données à me proposer.
+
+
+## Mémoire
+Pour le moment j'ai déjà réalisé mon état de l'art ainsi que ma méthodologie. Dans le but de me forcer à un apprentissage de différents languages, j'ai décidé de rédiger mon mémoire en LaTeX, mais également de tenir un blog via Github Pages. Je souhaite également mettre la version finale sur une Shiny App qui sera accessible depuis cette page. Cette Shiny App et la page sont rédigées respectivement R et en Markdown. 
