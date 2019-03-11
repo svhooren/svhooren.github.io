@@ -1,4 +1,5 @@
-theme: jekyll-theme-cayman
+remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
 
 title: [Svhooren]
 description: [Hello everyone this is my personal page ! 
