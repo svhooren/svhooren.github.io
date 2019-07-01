@@ -9,8 +9,8 @@
 	</p>
 
 
-* My CV is available [here](https://svhooren.github.io/CV-2019/).
-* The codes I used for My Master Thesis are [here](https://svhooren.github.io/Presidentielles/)
+* My CV is available [here](https://svhooren.github.io/CV-2019/) (in English).
+* The methodology and the codes I used for My Master Thesis are [here](https://svhooren.github.io/Presidentielles/) (In French)
 
 
-PS: Thanks to Guillaume Gérard for the pics. This one was taken in Marocco.
+PS: Thanks to Guillaume Gérard for the picture. This one was taken in Marocco.
