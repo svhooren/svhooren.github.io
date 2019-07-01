@@ -1,6 +1,6 @@
 <p align="center">
 	    <h1 align="center">Simon Van Hooren</h1>
-	    ![Simon](/images/boulaajlate_40513717405_o.jpg)
+	    <img src="/Images/marocc.jpg">
 	    <p align="center">Hello everyone this is my personal page ! 
 	I'm a student in Geography in Brussels (Université Libre de Bruxelles).
 	I'll be gradutated in september 2019.
