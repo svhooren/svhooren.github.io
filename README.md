@@ -11,6 +11,7 @@
 
 * My CV is available [here](https://svhooren.github.io/CV-2019/) (in English).
 * The methodology and the codes I used for My Master Thesis are [here](https://svhooren.github.io/Presidentielles/) (In French)
+* My Master's Thesis online is available at [this link](https://svhooren.github.io/Memoire/) (in progress)
 
 
 PS: Thanks to Guillaume Gérard for the picture. This one was taken in Marocco.
