@@ -11,8 +11,8 @@
 
 * My CV is available [here](https://svhooren.github.io/CV-2019/) (English).
 * The methodology and the codes I used for My Master Thesis are [here](https://svhooren.github.io/Presidentielles/) (French)
-* My Master's Thesis in electoral geography: “What are the links between electoral behavior and the spatial distribution of social classes at the intra-urban level? In particular, can we observe geographical differences between neighborhoods dominated by middle classes?” is available at [this link](https://svhooren.github.io/Memoire/) (in progress) (French)
-* Mapping with R Leaflet: [here](https://svhooren.github.io/Paris_interactive/)  (in progress) (English)
+* My Master's Thesis in electoral geography is available at [this link](https://svhooren.github.io/Memoire/) (in progress) (French)
+* Mapping with R Leaflet: [here](https://svhooren.github.io/Paris_interactive/)  (in progress) (French)
 
 
 PS: Thanks to Guillaume Gérard for the picture. This one was taken in Marocco.
